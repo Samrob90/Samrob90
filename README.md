@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samrob90
-- 👀 I’m a fullstack developer , love coding ing python, javascript, c++ 
+- 👀 I’m a fullstack developer , love coding in python, javascript, c++ 
 - 🌱 I’m currently learning Three.js , blender and Augmented reality in python
 - 📫 How to reach me 
 -   Twitter @brshamsu
